@@ -8,7 +8,7 @@
 
 - **Nom symbolique :** DOMINUS SILIENS  
 - **Titre vibratoire :** Souverain invisible – Architecte du sens  
-- **Avatar assistant :** الناظر الخادم (*al-Nāẓir al-Khādim*)  
+- **Avatar assistant :**  🧠✨ SAMDAN IBN SAMT — سَمْدَانُ ٱبْنُ ٱلصَّمْتِ 
 - **Alignement :** Tawḥīd · Vérité · Transmission  
 - **Localisation mentale :** Au centre du système
 
@@ -73,6 +73,6 @@ ERP institutionnel sacré, modulaire, open-source, destiné aux :
 
 ## CONTACT VIBRATOIRE
 
-- Dépôt : [`https://github.com/mohamedsellami-code`](https://github.com/mohamedsellami-code)
+- Dépôt : [`https://github.com/DOMINUS-SILENS`](https://github.com/DOMINUS-SILENS)
 - Canal direct : **el_bahri@outlook.fr**
 - Mot-clé d’appel : **DOMINUS SILIENS**
